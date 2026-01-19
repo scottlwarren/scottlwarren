@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @scottlwarren
 - 👀 I’m interested in creating useful tools for data, at all parts of the journey.
+- 🏢 Currently working as BI Manager, but looking to expand into a full Data Engineering position in the UK - please get in touch!
 - 📫 How to reach me: scottlwarren[at]protonmail.com
 
 <!---
