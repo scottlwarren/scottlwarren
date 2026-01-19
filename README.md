@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scottlwarren
-- 👀 I’m interested in data analysis/data science, wrangling and storytelling.
+- 👀 I’m interested in creating useful tools for data, at all parts of the journey.
 - 📫 How to reach me: scottlwarren[at]protonmail.com
 
 <!---
